@@ -104,4 +104,4 @@ Full-stack JavaScript skills
 
 📃 License
 MIT License
-© 2025 AffordMed Evaluation – Built by [Your Name]
+© 2025 AffordMed Evaluation – Built by Prince Raj
